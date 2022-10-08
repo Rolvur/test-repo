@@ -1,0 +1,14 @@
+{
+
+    "code-runner.executorMap":{
+        "python":"$pythonPath -u $fullFileName"
+    },
+    "terminal.integrated.shell.windows":"C:\Program Files\Git\bin",
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+
+
+}
